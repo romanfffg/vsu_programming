@@ -7,6 +7,7 @@ class Matrix:
         self.matrix = []
 
     def key_entry(self):
+
         self.column = int(input("Введите кол столбцов "))
         self.line = int(input("Введите кол строк "))
         for a in range(self.line):
