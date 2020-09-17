@@ -6,4 +6,4 @@ b = float(input())
 
 c = float(input())
 
-print(math.sqrt(x**2 + y**2 + z**2))
+print(math.sqrt(a**2 + b**2 + c**2))
